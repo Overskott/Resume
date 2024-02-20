@@ -2,9 +2,9 @@ title: Sebastian Testanière Overskott  # You can add your name here
 
 logo: 1.png # Use a relative path to logo image 
 
-description: Data science and programming. # Fix hyphenation 
+description: Data science and programming. 
 
-show_downloads: true # Fix spelling
+show_downloads: False 
 
 theme: jekyll-theme-minimal 
 
