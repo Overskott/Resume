@@ -8,8 +8,8 @@ Former musician and sound engineer who took the leap into computer engineering, 
 
 ## Skills
 - Programming Languages: Python (Pandas, Scikit-learn, Numpy, matplotlib, seaborn, ++), Java, SQL, HMTL/CSS, Matlab
-[//]: #(- Databases: MySQL, MongoDB)
-- Tools & Methods: Git, Agile, Docker, AWS
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools & Methods: Git, agile methods, Docker, AWS
 
 ## Experience
 **Ruter AS** (Jun 2022 - Jun 2023)   
