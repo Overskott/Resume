@@ -4,7 +4,7 @@
 [//]: # (Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io))
 
 ## Summary
-Former musician and sound engineer who took the leap into computer engineering, mathematics and science. Quntum literate with passion for investigating and handeling data. 
+Former musician and sound engineer who took the leap into computer engineering, mathematics and science.
 
 ## Skills
 - Programming Languages: Python (Pandas, Scikit-learn, Numpy, matplotlib, seaborn, ++), Java, SQL, HMTL/CSS, Matlab
@@ -57,4 +57,4 @@ Product manager
 - Mathematics and physics
 
 **Diploma in Sound engineering** | NISS (now høyskolen Krisitania) | Jun 2010
-- specialization in live sound engineering
+- Specialization in live sound engineering
