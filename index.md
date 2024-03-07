@@ -1,7 +1,7 @@
 
 *WIP*
 # Data scientist and software engineer
-[//]: # (Software Engineer | [Portfolio](https://overskott.github.io/portfolio))
+Software Engineer | [Portfolio](https://overskott.github.io/portfolio)
 
 ## Summary
 Former musician and sound engineer who took the leap into computer engineering, mathematics and science.
