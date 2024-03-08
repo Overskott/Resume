@@ -4,11 +4,15 @@ logo: seb_1.png # Use a relative path to logo image
 
 description: 
 
-    "Hi! 👋 Former musician turned tech enthusiast here! I've traded in my guitar for a keyboard and dived headfirst into the worlds of computer engineering, math, and science.
+    "Hi! 👋 Former musician turned tech enthusiast here! I've traded in my guitar for a keyboard and dived headfirst into the worlds of computer engineering, math, and science."\n
     
-    At Ruter AS, I geeked out as a part-time Data Engineer, using machine learning and quantum computing to predict passenger capacity in public transport. 🚆As a Teacher Assistant at Oslomet, I helped students tackle calculus nightmares and quantum mysteries. It was a blast! Then, I dipped my toes into research at NordSTAR, playing with Qiskit and evolutionary algorithms to create quantum circuits. 📝 Before all this, I rocked it as a Product Manager at Prolyd AS, handling sales, logistics, and training for professional audio gear. 🎧 Now, armed with a Master's in Applied Computer and Information Technology, I'm all about programming and Data science!
+    "At Ruter AS, I geeked out as a part-time Data Engineer, using machine learning and quantum computing to predict passenger capacity in public transport. 🚆
+    As a Teacher Assistant at Oslomet, I helped students tackle calculus nightmares and quantum mysteries. It was a blast! 
+    I dipped my toes into research at NordSTAR, playing with Qiskit and evolutionary algorithms to create quantum circuits. 📝 
+    Before all this, I rocked it as a Product Manager at Prolyd AS, handling sales, logistics, and training for professional audio gear. 🎧 
+    Now, armed with a Master's in Applied Computer and Information Technology, I'm all about programming and Data science!"\n
     
-    Life's not all about work! When I'm not coding or problem solving, you can find me jamming on my bass guitar or exploring the great outdoors. 🏞️"
+    "Life's not all about work! When I'm not coding or problem solving, you can find me jamming on my bass guitar or exploring the great outdoors. 🏞️"
 
 show_downloads: False 
 
